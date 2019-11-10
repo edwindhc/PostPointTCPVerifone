@@ -1,0 +1,12 @@
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\bin\Debug\PosPointCommunication.exe.config
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\bin\Debug\PosPointCommunication.exe
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\bin\Debug\PosPointCommunication.pdb
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\PosPointCommunication.csprojAssemblyReference.cache
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\PosPointCommunication.Form1.resources
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\PosPointCommunication.Properties.Resources.resources
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\PosPointCommunication.csproj.GenerateResource.cache
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\PosPointCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\PosPointCommunication.exe
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\PosPointCommunication.pdb
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\Interop.WinPOSPointLib.dll
+C:\Users\Edwin\source\repos\PosPointCommunication\PosPointCommunication\obj\Debug\PosPointCommunication.csproj.ResolveComReference.cache
